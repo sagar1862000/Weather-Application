@@ -25,7 +25,7 @@ const Home = () => {
   const [currdate, setCurrDate] = useState({});
   const [lati, setLati] = useState(0);
   const [longi, setLongi] = useState(0);
-  const [place, setPlace] = useState("Delhi");
+  const [place, setPlace] = useState("Raipur");
   const [res, setRes] = useState({});
 
   const [btn, setBtn] = useState(0);
